@@ -3,5 +3,10 @@
         "functional": "cpp",
         "iostream": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.compilerArgs": [
+        "-std=c++20"
+    ],
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
 }
